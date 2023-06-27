@@ -1,9 +1,28 @@
+:root {
+    --gray-accent: rgb(112,128,144);
+    --lavendergray-accent: rgb(185,185,205);
+    --blurple-accent: rgb(128,149,255);
+    --white-accent: rgb(255,255,255);
+    --purple: rgb(97, 103, 137); 
+}
+
+
 .title {
     padding-top: 10vh;
     padding-bottom: 5vh;
-    background: lavender;
+    /* background: lavender; */
 }
 
 .title h1 {
     text-align: center;
+}
+
+/* Decorative */
+
+.line {
+    position: relative;
+    border-bottom: 0.3rem var(--purple) solid;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 1.5rem;
 }
