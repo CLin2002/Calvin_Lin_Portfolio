@@ -24,6 +24,25 @@
     border-bottom: 0.3rem var(--purple) solid;
     margin-left: 10vw;
     margin-right: 10vw;
-    margin-bottom: 1vh;
-    padding-top: 1.5rem;
+    margin-bottom: .5rem;
+    padding-top: .5rem;
+}
+
+li {
+    text-align: left;
+    padding-left: 5vw;
+}
+.banner {
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    padding: 15px;
+    height:5vh;
+    text-align: center;
+    background-color: var(--purple);
+}
+
+.banner h1 {
+    color: white;
 }
