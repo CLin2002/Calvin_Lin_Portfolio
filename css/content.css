@@ -24,5 +24,6 @@
     border-bottom: 0.3rem var(--purple) solid;
     margin-left: 10vw;
     margin-right: 10vw;
+    margin-bottom: 1vh;
     padding-top: 1.5rem;
 }

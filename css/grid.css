@@ -32,6 +32,14 @@ img {
     display: block;
 }
 
+.stack-one {
+    margin-bottom: 5vh;
+}
+
+.stack-two {
+
+}
+
 /* .three-column {
     display: grid;
     grid-template-columns: auto auto auto;
@@ -61,5 +69,31 @@ img {
 }
 
 .three-item img:hover {
+    opacity: 75%;
+}
+
+.two-column {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    margin: 0 16px 16px 16px;
+}
+
+.two-item {
+    padding: 10px; 
+    width: 50%;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 5vh;
+}
+
+#project-block img:hover {
     opacity: 75%;
 }
