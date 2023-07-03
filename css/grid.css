@@ -32,6 +32,11 @@ img {
     display: block;
 }
 
+#stack h1 {
+    color: black;
+    font-size: 5vh;
+}
+
 .stack-one {
     margin-bottom: 5vh;
 }
@@ -109,8 +114,9 @@ img {
 }
 
 .center-box {
-    padding-left: 25vw;
-    padding-right: 25vw;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    padding-top: 1.5vh;
     padding-bottom: 1.5vh;
     justify-content: center;
     text-align: center;

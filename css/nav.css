@@ -70,6 +70,7 @@ h2, h3, h4, h5, h6, p, a, li, ul {
 /* footer */
 
 .main-foot {
+  margin-top: 10vh;
   padding: 2vh;
   text-align: center;
   overflow: hidden;
@@ -82,4 +83,8 @@ h2, h3, h4, h5, h6, p, a, li, ul {
 
 .main-foot p {
   color: white;
+}
+
+.head-gap {
+  padding: 5vh;
 }
