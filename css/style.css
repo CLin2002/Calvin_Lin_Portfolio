@@ -67,3 +67,8 @@
     -webkit-animation: downarrow 0.6s infinite alternate ease-in-out;
     border-top:2em solid var(--white-accent);
   }
+
+  video {
+    max-width: 100%;
+    height: auto;
+  }

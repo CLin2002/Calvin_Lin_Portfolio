@@ -139,3 +139,14 @@ img {
         padding-right: 2.5vw;
     }
 }
+
+.three-column img {
+    float: left;
+    width:  33.3vw;
+    height: auto;
+    background-size: cover;
+}
+
+.title h1 {
+    color: black;
+}
