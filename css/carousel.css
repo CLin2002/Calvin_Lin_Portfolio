@@ -23,7 +23,7 @@
     width: 20vw;
 }
 .slider::before, .slider::after {
-    background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 50%);
+    /* background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 50%); */
     content: "";
     height: 500px;
     position: absolute;
